@@ -1,1 +1,2 @@
-# taskinator
+# Module Project Web Api: Taskinator
+In this module, you’ll work on a personal project: building a task-tracker app called Taskinator. Taskinator will allow you to organize your personal to-do list items by using a dropdown menu to change the task status and move the task into To Do, In Progress, and Completed lists. When you’re done, you’ll have a useful app as well as a solid addition to your professional portfolio!
